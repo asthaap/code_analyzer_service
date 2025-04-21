@@ -11,7 +11,7 @@ Git: Install Git to clone the repository.
 
 **Clone the Repository**
 git clone https://github.com/asthaap/code_analyzer_service.git
-cd CodeAnalyzerService
+cd code_analyzer_service
 
 Replace <your-username> with your GitHub username (e.g., Rahul-pro1).
 
